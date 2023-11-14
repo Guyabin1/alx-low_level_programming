@@ -1,7 +1,12 @@
 #include "main.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <ctype.h>
+#include <string.h>
+
 /**
  * _strlen - return the length of a string
- * Owned By Martin Nyagaya
+ * Owned By Bwave
  * @s: char to check
  * Description: this will return the length of a string
  * Return: 0 is success
